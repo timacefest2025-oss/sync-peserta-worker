@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "sync-peserta-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f237d1b9-3eac-4a38-8661-1a505c45d74d",
+      "database_name": "peserta_acefest"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
